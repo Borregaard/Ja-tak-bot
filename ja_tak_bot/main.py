@@ -2,7 +2,6 @@ import discord
 import os
 import requests
 import urllib
-from PIL import Image, ImageFont, ImageDraw
 from discord.ext import commands
 
 
