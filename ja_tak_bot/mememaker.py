@@ -1,4 +1,4 @@
-
+from PIL import Image, ImageFont, ImageDraw
 
 x_1 = 125
 y_1 = 290
